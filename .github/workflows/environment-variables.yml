@@ -5,7 +5,7 @@ env:
 jobs:
     test:
         env:
-            MONGODB_CLUSTER_ADRESS: cluster0.tjcxjtz.mongodb.net
+            MONGODB_CLUSTER_ADDRESS: cluster0.tjcxjtz.mongodb.net
             MONGODB_USERNAME: gbandarudevops
             MONGODB_PASSWORD: NQkLSelXmGMzYs6M
             PORT: 3000
